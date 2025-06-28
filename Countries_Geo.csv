@@ -1,0 +1,131 @@
+Country_Key,Country_Desc,Geography
+AL,Albania,
+DZ,Algeria,International
+VI,Amer.Virgin Is.,
+AR,Argentina,International
+AU,Australia,International
+AT,Austria,Key Markets
+AZ,Azerbaijan,
+BS,Bahamas,
+BH,Bahrain,Key Markets
+BD,Bangladesh,
+BY,Belarus,
+BE,Belgium,Key Markets
+BM,Bermuda,
+BO,Bolivia,
+BA,Bosnia-Herz.,
+BR,Brazil,International
+BG,Bulgaria,
+CA,Canada,North America
+CV,Cape Verde,
+KY,Cayman Islands,
+CL,Chile,International
+CN,China,Greater China
+CO,Colombia,International
+CR,Costa Rica,International
+HR,Croatia,
+CU,Cuba,
+CY,Cyprus,International
+CZ,Czech Republic,International
+DK,Denmark,Key Markets
+DO,Dominican Republic,International
+AN,Dutch Antilles,
+EC,Ecuador,International
+EG,Egypt,International
+SV,El Salvador,International
+EE,Estonia,
+FI,Finland,Key Markets
+FR,France,Key Markets
+GE,Georgia,
+DE,Germany,Key Markets
+GR,Greece,International
+GT,Guatemala,International
+HT,Haiti,
+HN,Honduras,
+HK,Hong Kong,Greater China
+HU,Hungary,International
+IS,Iceland,Key Markets
+IN,India,International
+ID,Indonesia,
+IQ,Iraq,International
+IE,Ireland,Key Markets
+IL,Israel,International
+IT,Italy,Key Markets
+JM,Jamaica,
+JP,Japan,Key Markets
+JO,Jordan,International
+KZ,Kazakhstan,
+KE,Kenya,
+KR,Korea,International
+XK,Kosovo,
+KW,Kuwait,Key Markets
+KG,Kyrgyzstan,
+LV,Latvia,
+LB,Lebanon,International
+LY,Libya,International
+LT,Lithuania,
+LU,Luxembourg,
+MY,Malaysia,International
+MV,Maldives,
+MT,Malta,
+MR,Mauretania,
+MX,Mexico,International
+MD,Moldavia,
+MN,Mongolia,
+ME,Montenegro,
+MA,Morocco,International
+MZ,Mozambique,
+MM,Myanmar,
+NP,Nepal,
+NL,Netherlands,Key Markets
+NZ,New Zealand,International
+NI,Nicaragua,
+NG,Nigeria,International
+MK,North Macedonia,
+NO,Norway,Key Markets
+OM,Oman,Key Markets
+PK,Pakistan,International
+PA,Panama,International
+PY,Paraguay,International
+PE,Peru,International
+PH,Philippines,International
+PL,Poland,International
+PT,Portugal,Key Markets
+PR,Puerto Rico,North America
+QA,Qatar,Key Markets
+REC,REC,International
+RO,Romania,International
+RW,Ruanda,
+RU,Russia,International
+SA,Saudi Arabia,Key Markets
+SN,Senegal,
+RS,Serbia,
+SG,Singapore,International
+SK,Slovakia,
+SI,Slovenia,
+ZA,South Africa,International
+ES,Spain,Key Markets
+LK,Sri Lanka,
+SD,Sudan,
+SR,Suriname,
+SE,Sweden,Key Markets
+CH,Switzerland,Key Markets
+TW,Taiwan,Greater China
+TH,Thailand,International
+TL,Timor Leste,
+TT,"Trinidad,Tobago",
+TN,Tunisia,International
+TR,Turkey,International
+UA,Ukraine,International
+GB,United Kingdom,Key Markets
+US,United States,North America
+UY,Uruguay,International
+AE,United Arab Emirates,Key Markets
+UZ,Uzbekistan,
+VE,Venezuela,
+VN,Vietnam,International
+NBM Eurasia,NBM Eurasia,International
+NBM Europe,NBM Europe,International
+IR,Iran,International
+,France DomTom,Key Markets
+,Carribean Other,International
