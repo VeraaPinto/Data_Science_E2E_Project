@@ -98,7 +98,7 @@ Date, Product Family, GMID, Location, Country, Sales, Forecast, MAPE, Absolute E
 
 ## Author
 
-**VeraaPinto**
+**Vera Pinto**
 
 
 
