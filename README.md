@@ -1,6 +1,7 @@
 
 readme_content = """
-# 📈 Data Science E2E Project:   Forecast predictive model to enhance MAPE performance
+# 📈 Data Science E2E Project:
+# Forecast predictive model to enhance MAPE performance
 
 ## Project Overview
 
@@ -59,9 +60,10 @@ Date, Product Family, GMID, Location, Country, Sales, Forecast, MAPE, Absolute E
 - Regression Models:
     - Linear Regression
     - K-Nearest Neighbors (KNN)
-    - Decision Tree Regressor
+    - AdaBoost
     - Random Forest Regressor
     - Gradient Boosting Regressor
+    - Bagging Regressor
     - XGBoost / LightGBM
 - Evaluation Metrics:
     - R² (coefficient of determination)
