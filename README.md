@@ -1,7 +1,6 @@
 
 readme_content = """
-# 📈 Data Science E2E Project:
-# Forecast predictive model to enhance MAPE performance
+# 📈 Data Science E2E Project: Forecast predictive model to enhance MAPE performance
 
 ## Project Overview
 
@@ -101,14 +100,6 @@ Date, Product Family, GMID, Location, Country, Sales, Forecast, MAPE, Absolute E
 
 **VeraaPinto**
 
----
 
-Explore the notebook for detailed code, visualizations, and further insights on forecast optimization!
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md file created successfully.")
 
 
