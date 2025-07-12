@@ -95,7 +95,7 @@ Date, Product Family, GMID, Location, Country, Sales, Forecast, MAPE, Absolute E
 
 ## Project Plannning
 
-[](https://www.notion.so/2121e333e543807595dbdc0d6245f5cf?v=2121e333e54380f38122000cbaac86f0)
+[Notion](https://www.notion.so/2121e333e543807595dbdc0d6245f5cf?v=2121e333e54380f38122000cbaac86f0)
 
 ## Author
 
