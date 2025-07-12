@@ -1,7 +1,6 @@
 
 readme_content = """
-# 📈 Data Science E2E Project:
-**Forecast predictive model to enhance MAPE performance**
+# 📈 Data Science E2E Project: Enhancing Forecast Accuracy with ML - A MAPE driven approach
 
 ## Project Overview
 
@@ -60,9 +59,10 @@ Date, Product Family, GMID, Location, Country, Sales, Forecast, MAPE, Absolute E
 - Regression Models:
     - Linear Regression
     - K-Nearest Neighbors (KNN)
-    - Decision Tree Regressor
+    - AdaBoost
     - Random Forest Regressor
     - Gradient Boosting Regressor
+    - Bagging Regressor
     - XGBoost / LightGBM
 - Evaluation Metrics:
     - R² (coefficient of determination)
@@ -91,22 +91,12 @@ Date, Product Family, GMID, Location, Country, Sales, Forecast, MAPE, Absolute E
 
 ## Presentation
 
-[](https://docs.google.com/presentation/d/1nPi7VO3SSoiqS46g_rXAJ2PHHko9-Thvb0P7Ahkb9P8/edit?slide=id.g36e9d1c21f2_0_501#slide=id.g36e9d1c21f2_0_501)
+[Presentation](https://docs.google.com/presentation/d/1nPi7VO3SSoiqS46g_rXAJ2PHHko9-Thvb0P7Ahkb9P8/edit?slide=id.g36e9d1c21f2_0_501#slide=id.g36e9d1c21f2_0_501)
 
 ## Project Plannning
-[](https://www.notion.so/2121e333e543807595dbdc0d6245f5cf?v=2121e333e54380f38122000cbaac86f0&source=copy_link)
+
+[](https://www.notion.so/2121e333e543807595dbdc0d6245f5cf?v=2121e333e54380f38122000cbaac86f0)
+
 ## Author
 
-**VeraaPinto**
-
----
-
-Explore the notebook for detailed code, visualizations, and further insights on forecast optimization!
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md file created successfully.")
-
-
+**Vera Pinto**
