@@ -94,7 +94,7 @@ Date, Product Family, GMID, Location, Country, Sales, Forecast, MAPE, Absolute E
 [](https://docs.google.com/presentation/d/1nPi7VO3SSoiqS46g_rXAJ2PHHko9-Thvb0P7Ahkb9P8/edit?slide=id.g36e9d1c21f2_0_501#slide=id.g36e9d1c21f2_0_501)
 
 ## Project Plannning
-[]()
+[](https://www.notion.so/2121e333e543807595dbdc0d6245f5cf?v=2121e333e54380f38122000cbaac86f0&source=copy_link)
 ## Author
 
 **VeraaPinto**
