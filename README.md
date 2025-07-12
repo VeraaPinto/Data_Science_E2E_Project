@@ -1,5 +1,4 @@
 
-readme_content = """
 # 📈 Data Science E2E Project: Enhancing Forecast Accuracy with ML - A MAPE driven approach
 
 ## Project Overview
